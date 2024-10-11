@@ -1,0 +1,3 @@
+[INFO] Graph successfully read from file
+[INFO] Minimum spanning tree found
+[INFO] Minimum spanning tree successfully written to file
